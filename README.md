@@ -1,2 +1,2 @@
-# Travel-site-code-React
+# travel-site-code-react
 new repository 
